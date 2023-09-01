@@ -107,13 +107,15 @@
 1. FourEver의 내 차 만들기, 아카이빙, 마이카이빙은 로그인 후에 이용할 수 있습니다.
 2. 이메일 형식에 맞는 아이디와 비밀번호를 통해 로그인할 수 있으며, 해당 로그인 정보가 없을시 자동으로 회원가입 됩니다.
 
-https://github.com/hwangJN/A4-FourEver/assets/101038390/51e17d11-52b0-43c2-8419-7ffc1f87cfb2
-
+https://github.com/softeerbootcamp-2nd/A4-FourEver/assets/101038390/500f514b-c4d3-4294-b7d8-2135c65655fb
 
 #### 📍 내 차 만들기 설명
 1. 기획서의 조건을 따라 트림은 Le Blanc으로 한정되어 개발되었기 때문에 트림 선택시 Le Blanc을 꼭 선택해야합니다.
 2. 저장하지 않고 페이지를 이탈 시 마이카이빙에 임시저장되어 여태까지 선택한 조건으로 내 차 만들기를 진행할 수 있습니다.
 
+https://github.com/softeerbootcamp-2nd/A4-FourEver/assets/101038390/e0e91036-2af2-4dca-ab73-11267f620946
+
+https://github.com/softeerbootcamp-2nd/A4-FourEver/assets/101038390/0dfb1709-8e4a-4fe5-8776-e7d9629e199f
 
 
 #### 📍 아카이빙 설명
