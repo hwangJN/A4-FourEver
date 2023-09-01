@@ -14,23 +14,25 @@
 
 
 
-#### 📍 프로젝트 목적
-복잡한 플로우로 기존 현대닷컴 내차만들기 도중 사용자가 이탈하는 문제점을 개선하고자 기획된 프로젝트입니다.    
-소프티어 부트캠프 2기 과정 중에 진행되었으며, 기획팀으로부터 기획서를 제공받아 개발을 진행하였습니다.
+### 📍 프로젝트 목적
+> 복잡한 플로우로 기존 현대닷컴 내차만들기 도중 사용자가 이탈하는 문제점을 개선하고자 기획된 프로젝트입니다.    <br/>
+> 소프티어 부트캠프 2기 과정 중에 진행되었으며, 기획팀으로부터 기획서를 제공받아 개발을 진행하였습니다.
 
-#### 📍 프로젝트 전체 플로우
+<br/>
+
+### 📍 프로젝트 전체 플로우
 <img width="981" alt="스크린샷 2023-08-28 오후 4 57 16" src="https://github.com/softeerbootcamp-2nd/A4-FourEver/assets/62049151/2e7849c2-d59a-4a03-a814-21984fccdd80">
 
-#### 📍 프로젝트 기간
-2023.08.01 ~ 2023.08.28
+### 📍 프로젝트 기간
+`2023.08.01 ~ 2023.08.28`
 
-#### 📍 기획/디자인 링크   
+### 📍 기획/디자인 링크   
 - [기획/정책안내](https://www.figma.com/file/7Z1cW7vx7ejocQzIJIYnDs/Handoff_%EC%97%91%EC%85%80?type=design&node-id=8-17111&mode=design&t=AesBB7DPiBepP2VS-0)  
 - [상세설계서](https://www.figma.com/file/7Z1cW7vx7ejocQzIJIYnDs/Handoff_%EC%97%91%EC%85%80?type=design&node-id=8-17111&mode=design&t=AesBB7DPiBepP2VS-0)   
 - [디자인링크](https://www.figma.com/file/7Z1cW7vx7ejocQzIJIYnDs/Handoff_%EC%97%91%EC%85%80?type=design&node-id=1-6&mode=design&t=LjCSeaLBp3qhUB9W-0)
 
 
-#### 📍 팀원 소개
+### 📍 팀원 소개
 
 <table style="border: 0.5px solid gray">
  <tr>
